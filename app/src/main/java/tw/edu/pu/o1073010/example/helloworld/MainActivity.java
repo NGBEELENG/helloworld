@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
        // txv.setText("Hello tcyang");
        // TestDev();
         //TestMaster();
-        txv.setText("嗨，我是楊子青");
+        txv.setText("嗨，我是學生");
     }
 
     public void TestMaster(){
